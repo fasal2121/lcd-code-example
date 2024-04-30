@@ -1,2 +1,2 @@
 # lcd-code-example
-Displaying an incremented score variable
+Displaying an incremented score variable on lcd with I2C module
